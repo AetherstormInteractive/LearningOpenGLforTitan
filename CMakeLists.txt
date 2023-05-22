@@ -13,3 +13,5 @@ project ("LearningOpenGLforTitan")
 
 # Include sub-projects.
 add_subdirectory ("LearningOpenGLforTitan")
+add_subdirectory ("3rdparty/sdl2")
+add_subdirectory ("3rdparty/glm")

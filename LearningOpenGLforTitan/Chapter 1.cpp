@@ -1,7 +1,7 @@
 ﻿// LearningOpenGLforTitan.cpp : Defines the entry point for the application.
 //
 
-#include "LearningOpenGLforTitan.h"
+#include "Chapter 1.h"
 
 using namespace std;
 
